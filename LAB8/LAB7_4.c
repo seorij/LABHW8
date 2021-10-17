@@ -1,8 +1,3 @@
-/*
- LAB7_3.c
- 컴퓨터학과 20170978 정설아
- 컴퓨터프로그래밍 03분반
- */
 #include <stdio.h>
 #include <stdlib.h>
 
