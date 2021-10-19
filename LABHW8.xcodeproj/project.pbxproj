@@ -11,6 +11,8 @@
 		4E764E9C271C44820030FDF1 /* LAB1.c in Sources */ = {isa = PBXBuildFile; fileRef = 4E764E9B271C44820030FDF1 /* LAB1.c */; };
 		4E764E9F271C45DE0030FDF1 /* LAB7_3.c in Sources */ = {isa = PBXBuildFile; fileRef = 4E764E9E271C45DE0030FDF1 /* LAB7_3.c */; };
 		4E764EA2271C4B030030FDF1 /* LAB7_4.c in Sources */ = {isa = PBXBuildFile; fileRef = 4E764EA1271C4B030030FDF1 /* LAB7_4.c */; };
+		4E764EA7271E82DF0030FDF1 /* HW7_1.c in Sources */ = {isa = PBXBuildFile; fileRef = 4E764EA6271E82DF0030FDF1 /* HW7_1.c */; };
+		4E764EAA271E84F30030FDF1 /* HW7_2.c in Sources */ = {isa = PBXBuildFile; fileRef = 4E764EA9271E84F30030FDF1 /* HW7_2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +36,10 @@
 		4E764E9E271C45DE0030FDF1 /* LAB7_3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LAB7_3.c; sourceTree = "<group>"; };
 		4E764EA0271C4B030030FDF1 /* LAB7_4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LAB7_4.h; sourceTree = "<group>"; };
 		4E764EA1271C4B030030FDF1 /* LAB7_4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LAB7_4.c; sourceTree = "<group>"; };
+		4E764EA5271E82DF0030FDF1 /* HW7_1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HW7_1.h; sourceTree = "<group>"; };
+		4E764EA6271E82DF0030FDF1 /* HW7_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = HW7_1.c; sourceTree = "<group>"; };
+		4E764EA8271E84F30030FDF1 /* HW7_2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HW7_2.h; sourceTree = "<group>"; };
+		4E764EA9271E84F30030FDF1 /* HW7_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = HW7_2.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +56,7 @@
 		4E764E86271C44550030FDF1 = {
 			isa = PBXGroup;
 			children = (
+				4E764EA4271E82D20030FDF1 /* HW8 */,
 				4E764E99271C44690030FDF1 /* LAB8 */,
 				4E764E91271C44550030FDF1 /* LABHW8 */,
 				4E764E90271C44550030FDF1 /* Products */,
@@ -83,6 +90,17 @@
 				4E764EA1271C4B030030FDF1 /* LAB7_4.c */,
 			);
 			path = LAB8;
+			sourceTree = "<group>";
+		};
+		4E764EA4271E82D20030FDF1 /* HW8 */ = {
+			isa = PBXGroup;
+			children = (
+				4E764EA5271E82DF0030FDF1 /* HW7_1.h */,
+				4E764EA6271E82DF0030FDF1 /* HW7_1.c */,
+				4E764EA8271E84F30030FDF1 /* HW7_2.h */,
+				4E764EA9271E84F30030FDF1 /* HW7_2.c */,
+			);
+			path = HW8;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,7 +161,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E764E93271C44550030FDF1 /* main.c in Sources */,
+				4E764EA7271E82DF0030FDF1 /* HW7_1.c in Sources */,
 				4E764E9C271C44820030FDF1 /* LAB1.c in Sources */,
+				4E764EAA271E84F30030FDF1 /* HW7_2.c in Sources */,
 				4E764EA2271C4B030030FDF1 /* LAB7_4.c in Sources */,
 				4E764E9F271C45DE0030FDF1 /* LAB7_3.c in Sources */,
 			);
